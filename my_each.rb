@@ -1,10 +1,10 @@
 def my_each(collection)
   x = 0
   while x != collection.size
-    collection[x]
+    puts collection[x]
     x += 1
   end
 end
 
-collection = [1, 2, 3, 4]
+collection = [arel, john, logan, spencer]
 my_each(collection)
