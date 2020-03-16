@@ -4,6 +4,7 @@ def my_each(collection)
     puts collection[x]
     x += 1
   end
+  collection
 end
 
 collection = [1, 2, 3, 4]
