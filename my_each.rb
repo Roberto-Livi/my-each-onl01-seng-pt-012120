@@ -1,7 +1,7 @@
 def my_each(collection)
   x = 0
   while x != collection.size
-    puts collection[x]
+    collection[x]
     x += 1
   end
 end
