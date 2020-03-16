@@ -6,5 +6,5 @@ def my_each(collection)
   end
 end
 
-collection = [john, logan, spencer]
+
 my_each(collection)
