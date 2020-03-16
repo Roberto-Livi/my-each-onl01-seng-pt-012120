@@ -1,4 +1,4 @@
-def my_each(collection)
+def my_each
   collection = []
   x = 0
   while x != collection.length
