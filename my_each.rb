@@ -1,6 +1,6 @@
 def my_each(collection)
   x = 0
-  while x != collection.size
+  while x != collection.length
     collection[x]
     x += 1
   end
