@@ -1,7 +1,9 @@
 def my_each(collection)
-  c_size = 0
+  x = 0
   while x != collection.size
-    puts collection[c_size]
+    puts collection[x]
+    x += 1
+  end
 end
 
 collection = [1, 2, 3, 4]
