@@ -1,4 +1,5 @@
 def my_each(collection)
+  collection = []
   x = 0
   while x != collection.length
     collection[x]
